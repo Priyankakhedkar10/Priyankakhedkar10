@@ -57,8 +57,7 @@ mission: To make contribution to the organization to the best of my ability and 
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Priyankakhedkar10
-)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Priyankakhedkar10)](https://git.io/streak-stats)
 
 
 
