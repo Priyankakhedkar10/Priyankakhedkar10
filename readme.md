@@ -95,6 +95,9 @@ Career Objective: To make contribution to the organization to the best of my abi
   <a href="https://github.com/Priyankakhedkar10">Github
 </a>
     <img src="https://avatars.githubusercontent.com/u/173941003?v=4.svg" width="40"/>
+  <a href="priyankakhedkar.c21@gmail.com>Gmail">
+</a>
+    <img src="https://lh3.googleusercontent.com/a/ACg8ocIvEtc7dIuP9gX5o7WoiRso8af5SpNPpdEE8WCP49YQhyRnUhJI=s288-c-no.svg" width="40"/>
 
   
 
