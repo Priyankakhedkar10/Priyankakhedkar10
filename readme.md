@@ -25,13 +25,13 @@
 
 
 
-name: Priyanka Khedkar
+Name: Priyanka Khedkar
 
-location: Pune, Maharashtra, India 🇮🇳
+Location: Pune, Maharashtra, India 🇮🇳
 
-age: 24 
+Age: 24 
 
-mission: To make contribution to the organization to the best of my ability and to develop new skills and share my knowledge while interacting with others and achieve new height.
+Career Objective: To make contribution to the organization to the best of my ability and to develop new skills and share my knowledge while interacting with others and achieve new height.
 
 
 ---
@@ -71,6 +71,8 @@ mission: To make contribution to the organization to the best of my ability and 
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyankakhedkar10)
 
+
+![Contribution Graph](./github-user-contribution.svg)
 
 
 
