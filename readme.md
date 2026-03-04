@@ -25,9 +25,13 @@
 
 
 Priyanka Bhagwan Khedkar
+
 Contact: +917249837400, +917758952976
+
 Email	: priyankakhedkarc21@gmail.com
+
 Age: 24 
+
 Education : Bachlor in Computer Engineering
 
 Career Objective: To make contribution to the organization to the best of my ability and to develop new skills and share my knowledge while interacting with others and achieve new height.
