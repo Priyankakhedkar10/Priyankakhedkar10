@@ -70,8 +70,7 @@ mission: To make contribution to the organization to the best of my ability and 
 
 
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyankakhedkar10
-&theme=github-compact&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyankakhedkar10)
 
 
 
